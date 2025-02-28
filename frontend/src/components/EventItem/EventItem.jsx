@@ -1,15 +1,20 @@
 import React, { useContext } from "react";
 import "./EventItem.css";
 import { assets } from "../../assets/frontend_assets/assets";
-import { StoreContext } from "../../context/storecontext";
+import { StoreContext } from "../../context/StoreContext";
 
 const EventItem = ({ id, name, price, description, image }) => {
-  const { cartItems, addToCart, removeFromCart } = useContext(StoreContext);
+  const { cartItems, addToCart, removeFromCart, url } =
+    useContext(StoreContext);
 
   return (
     <div className="event-item">
       <div className="event-item-img-container">
-        <img className="event-item-image" src={image} alt="" />
+        <img
+          className="event-item-image"
+          src={url + "/images/" + image}
+          alt=""
+        />
         {!cartItems[id] ? (
           <img
             className="add"

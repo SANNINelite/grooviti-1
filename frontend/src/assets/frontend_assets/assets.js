@@ -88,7 +88,7 @@ export const event_list = [
         event_image: event_1
     },
     {
-        event_name: "Non-Cultural",
+        event_name: "Club",
         event_image: event_2
     },
     {
@@ -130,77 +130,77 @@ export const myevents_list = [
         name: "Powada Competition",
         image: food_2,
         price: 199,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "LOREM",
         category: "Cultural"
     }, {
         _id: "3",
         name: "Folk Dance",
         image: food_3,
         price: 199,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "lorem",
         category: "Cultural"
     }, {
         _id: "4",
         name: "Music",
         image: food_4,
         price: 99,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "lorem",
         category: "Cultural"
     }, {
         _id: "5",
         name: "Dj Night",
         image: food_5,
         price: 140,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Non-Cultural"
+        description: "lorem",
+        category: "Club"
     }, {
         _id: "6",
         name: "Clubbing",
         image: food_6,
         price: 120,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Non-Cultural"
+        description: "description",
+        category: "Club"
     }, {
         _id: "7",
         name: "Food-Festival",
         image: food_7,
         price: 200,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Non-Cultural"
+        description: "lorem",
+        category: "Club"
     }, {
         _id: "8",
         name: "Pool-Party",
         image: food_8,
         price: 150,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Non-Cultural"
+        description: "lorem",
+        category: "Club"
     }, {
         _id: "9",
         name: "Cricket",
         image: food_9,
         price: 140,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "lorem",
         category: "Sports"
     }, {
         _id: "10",
         name: "Football",
         image: food_10,
         price: 220,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "lorem",
         category: "Sports"
     }, {
         _id: "11",
         name: "Basketball",
         image: food_11,
         price: 100,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "lorem",
         category: "Sports"
     }, {
         _id: "12",
         name: "Badminton",
         image: food_12,
         price: 120,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "lorem",
         category: "Sports"
     },
     {
@@ -208,7 +208,7 @@ export const myevents_list = [
         name: "Cultural-event",
         image: food_13,
         price: 129,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "lorem",
         category: "Cultural"
     },
     {
@@ -216,77 +216,77 @@ export const myevents_list = [
         name: "Hackathon",
         image: food_14,
         price: 189,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "lorem",
         category: "Tech"
     }, {
         _id: "15",
         name: "GDSC",
         image: food_15,
         price: 169,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "lorem",
         category: "Tech"
     }, {
         _id: "16",
         name: "ACM",
         image: food_16,
         price: 249,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "lorem",
         category: "Tech"
     }, {
         _id: "17",
         name: "Natak",
         image: food_17,
         price: 149,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "lorem",
         category: "Drama"
     }, {
         _id: "18",
         name: "Ekankika",
         image: food_18,
         price: 120,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "lorem",
         category: "Drama"
     }, {
         _id: "19",
         name: "Ekankika 2.0",
         image: food_19,
         price: 200,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "lorem",
         category: "Drama"
     }, {
         _id: "20",
         name: "Drama 2.0",
         image: food_20,
         price: 159,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "lorem",
         category: "Drama"
     }, {
         _id: "21",
         name: "Comedy-laughter ",
         image: food_21,
         price: 149,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "lorem",
         category: "Open-mic"
     }, {
         _id: "22",
         name: "LOL",
         image: food_22,
         price: 229,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "lorem",
         category: "Open-mic"
     }, {
         _id: "23",
         name: "India's Got Latent",
         image: food_23,
         price: 109,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "lorem",
         category: "Open-mic"
     }, {
         _id: "24",
         name: "LOL 2.0",
         image: food_24,
         price: 129,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "lorem",
         category: "Open-mic"
     },
     {
@@ -294,7 +294,7 @@ export const myevents_list = [
         name: "Samay Raina",
         image: food_25,
         price: 120,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "lorem",
         category: "Stand-up"
     },
     {
@@ -302,49 +302,49 @@ export const myevents_list = [
         name: "Anubhav Singh Bassi",
         image: food_26,
         price: 180,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "lorem",
         category: "Stand-up"
     }, {
         _id: "27",
         name: "Kullu",
         image: food_27,
         price: 106,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "lorem",
         category: "Stand-up"
     }, {
         _id: "28",
         name: "Tanmay Bhat",
         image: food_28,
         price: 240,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "lorem",
         category: "Stand-up"
     }, {
         _id: "29",
         name: "Start UP",
         image: food_29,
         price: 140,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "lorem",
         category: "Conference"
     }, {
         _id: "30",
         name: "GDSC",
         image: food_30,
         price: 120,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "lorem",
         category: "Conference"
     }, {
         _id: "31",
         name: "Forum",
         image: food_31,
         price: 200,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "lorem",
         category: "Conference"
     }, {
         _id: "32",
         name: "Event",
         image: food_32,
         price: 150,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "lorem",
         category: "Conference"
     }
 ]

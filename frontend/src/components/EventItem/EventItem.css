@@ -7,6 +7,11 @@
   animation: fadeIn 1s;
 }
 
+.event-item:hover {
+  transition: transform 0.2s;
+  transform: scale(1.05);
+}
+
 .event-item-image {
   width: 100%;
   border-radius: 15px 0px 0px;
