@@ -42,7 +42,7 @@ const listEvent = async (req, res) => {
 
 // Remove Event Item
 
-const RemoveFood = async (req, res) => {
+const RemoveEvent = async (req, res) => {
   try {
     const event = await ticketModel.findById(req.body.id);
     fs.unlink(`uploads/${event.image}`, () => { })
@@ -55,4 +55,4 @@ const RemoveFood = async (req, res) => {
   }
 }
 
-export { addEvent, listEvent, RemoveFood }
+export { addEvent, listEvent, RemoveEvent }

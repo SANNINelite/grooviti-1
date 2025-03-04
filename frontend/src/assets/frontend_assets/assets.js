@@ -1,6 +1,8 @@
 import basket_icon from './basket_icon.png'
 import logo from './logo.png'
 import header_img from './header_img.png'
+import header from './header.png'
+import background from './background.png'
 import search_icon from './search_icon.png'
 import event_1 from './event_1.png'
 import event_2 from './event_2.png'
@@ -61,6 +63,8 @@ import logout_icon from './logout_icon.png'
 import parcel_icon from './parcel_icon.png'
 
 export const assets = {
+    header,
+    background,
     logo,
     basket_icon,
     header_img,
