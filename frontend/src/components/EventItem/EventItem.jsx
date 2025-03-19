@@ -40,7 +40,7 @@ const EventItem = ({ id, name, price, description, image }) => {
       <div className="event-item-info">
         <div className="event-item-name-rating">
           <p>{name}</p>
-          <img src={assets.rating_starts} alt="" />
+          {/* <img src={assets.rating_starts} alt="" /> */}
         </div>
         <p className="event-item-description">{description}</p>
         <p className="event-item-price">Rs.{price}</p>

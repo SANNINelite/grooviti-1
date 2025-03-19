@@ -28,7 +28,7 @@ const Navbar = ({ setShowLogin }) => {
           onClick={() => setevent("Home")}
           className={event === "Home" ? "active" : ""}
         >
-          home
+          Home
         </Link>
         <a
           href="#explore-events"
